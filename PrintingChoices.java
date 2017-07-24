@@ -7,11 +7,11 @@ public class PrintingChoices {
     System.out.println("Delta");
     System.out.println();
 
-    System.out.println("Echo");
-    System.out.println("Foxtrot");
+    System.out.print("Echo");
+    System.out.print("Foxtrot");
 
     System.out.println("Golf");
-    System.out.println("Hotel");
+    System.out.print("Hotel");
     System.out.println();
     System.out.println("India");
 
